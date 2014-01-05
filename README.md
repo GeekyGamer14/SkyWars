@@ -29,7 +29,7 @@ SkyWars
 * [Download Latest Snapshot](http://ci.nlmc.pw/guestAuth/repository/download/SkyWarsParent_SkyWars_MainBuild/.lastSuccessful/SkyWars.jar)
 
 ### Bugs, Features, and Questions
-We use the github issue tracker for all bugs, features, and questions.
+We use the GitHub issue tracker for all bugs, features, and questions.
 See [submitting a ticket](https://github.com/SkyWars/SkyWars/wiki/Submitting-a-ticket)
 
 ### Map credit
